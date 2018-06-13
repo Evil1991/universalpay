@@ -1,4 +1,4 @@
-With this module, you can create an unlimited number of payment methods without writing separate modules.
+1With this module, you can create an unlimited number of payment methods without writing separate modules.
 
 Features :
 Creates an unlimited number of fully customizable methods of payment
